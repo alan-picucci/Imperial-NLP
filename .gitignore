@@ -1,0 +1,13 @@
+# ignore all of wandb directory
+wandb/
+logs/
+nlp_venv/
+__pycache__/
+results/
+models/
+runs/
+.DS_Store
+best_model/
+logs/
+best_model/
+outputs/
