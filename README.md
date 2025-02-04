@@ -7,7 +7,7 @@ This coursework proposes a novel binary classification model trained on the Don'
 
 ## The repository contains the following files:
 
-- **README.txt**
+- **README.md**
 
 ---
 
